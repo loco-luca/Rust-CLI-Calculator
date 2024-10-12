@@ -27,7 +27,7 @@ A simple command-line calculator built in Rust. This calculator supports basic a
 ```
 3.	Compile the code:
  ```bash
-cargo build ```
+cargo build 
 ```
 4.	Run the program:
 ```bash
