@@ -20,11 +20,18 @@ A simple command-line calculator built in Rust. This calculator supports basic a
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/rust-calculator.git
+   ````
 2.Navigate to the project directory:
-    cd rust-calculator
+```bash
+ cd rust-calculator
+```
 3.	Compile the code:
-    cargo build
+ ```bash
+cargo build ```
+```
 4.	Run the program:
+```bash
     cargo run
+````
 
   
